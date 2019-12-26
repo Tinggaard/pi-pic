@@ -1,0 +1,2 @@
+file 'finalVideo.mp4'
+file 'trimVid.mp4'

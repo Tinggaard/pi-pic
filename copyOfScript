@@ -1,0 +1,5 @@
+#!/bin/bash
+dt=`date +"%Y-%m-%d-%T"`
+#echo "$dt"
+#raspistill -o testPicture.jpg
+raspistill -o ~/Documents/ChristiansKode/autoBilleder/$dt.jpg
