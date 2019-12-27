@@ -1,0 +1,8 @@
+# m h 	dom mon dow	command
+
+
+#kl 8 hver dag
+0 8 * * * bash ~/pi-pic/main.sh morgen
+
+#kl 19 hver dag
+0 19 * * * bash ~/pi-pic/main.sh aften
